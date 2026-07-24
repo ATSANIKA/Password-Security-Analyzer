@@ -86,19 +86,19 @@ The application displays:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](GUI_Home_Screen.png)
 
 ### Weak Password
-![Weak Password](screenshots/weak_password.png)
+![Weak Password](WeakPassword.png)
 
 ### Medium Password
-![Medium Password](screenshots/medium_password.png)
+![Medium Password](mediumpassword.jpg)
 
 ### Strong Password
-![Strong Password](screenshots/strong_password.png)
+![Strong Password](StrongPassword.png)
 
 ### Generated Password
-![Generated Password](screenshots/generated_password.png)
+![Generated Password](GeneratedPassword.png)
 ---
 
 ## Author
