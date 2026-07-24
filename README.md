@@ -86,7 +86,7 @@ The application displays:
 ## Screenshots
 
 ### Home Screen
-![Home Screen](GUI_Home_Screen.png)
+![Home Screen](GUI_HomeScreen.png)
 
 ### Weak Password
 ![Weak Password](WeakPassword.png)
