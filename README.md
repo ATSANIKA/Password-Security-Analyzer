@@ -83,6 +83,23 @@ The application displays:
 - Export PDF Report
 
 ---
+## Screenshots
+
+### Home Screen
+![Home Screen](screenshots/home_screen.png)
+
+### Weak Password
+![Weak Password](screenshots/weak_password.png)
+
+### Medium Password
+![Medium Password](screenshots/medium_password.png)
+
+### Strong Password
+![Strong Password](screenshots/strong_password.png)
+
+### Generated Password
+![Generated Password](screenshots/generated_password.png)
+---
 
 ## Author
 
